@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,GACE,iBAAkB,CACnB,GAGC,oBAAqB","file":"main.8d080003.chunk.css","sourcesContent":["h3 {\n  text-align: center;\n}\n\nul {\n  list-style-type: none;\n}\n"]}
